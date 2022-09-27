@@ -1,2 +1,2 @@
-# aurora
-A simple otimizer to julia functions
+# Aurora
+A simple optimizer to julia functions
